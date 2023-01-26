@@ -1,0 +1,47 @@
+.Profile{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.Main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 35px;
+    margin-top: 50px;
+
+}
+
+.Main img{
+  width: 200px;
+  height: 200px;
+  box-shadow: 5px 5px 5px rgba(9, 8, 8, 0.295);
+  border-radius: 20px; 
+}
+
+.ProfileDescription{
+    margin-left: 25px;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive, bold; 
+    
+}
+
+.Post{
+    margin-left: 40px; 
+    margin-top: 20px;
+}
+
+.Post input{
+    display: block;
+    height: auto;
+    width: 400px;
+    font-family: inherit;
+    
+    
+    border-radius: 5px;
+}
+
+.Post input::placeholder{
+    color: #212529;
+    opacity: 0.4;
+}

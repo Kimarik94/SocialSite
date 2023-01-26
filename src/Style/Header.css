@@ -1,0 +1,22 @@
+.HeaderBar{
+    display: flex;
+    flex-direction: row;
+
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    text-align: center;
+    vertical-align: middle;
+    color:rgba(20, 8, 70, 0.722);
+    text-shadow: 5px 5px 5px rgba(9, 8, 8, 0.295);
+
+    margin-right: 0%;      
+  }
+
+.HeaderBar i{
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 60px;
+    
+    font-size: 100px;
+    color:rgba(20, 8, 70, 0.722)
+}

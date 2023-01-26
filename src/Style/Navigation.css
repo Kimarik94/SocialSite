@@ -1,0 +1,11 @@
+.NavList{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Dancing Script', cursive, bold;
+    font-size: 30px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-shadow: 5px 5px 5px rgba(9, 8, 8, 0.295);
+    border-right: 2px black solid;
+}
